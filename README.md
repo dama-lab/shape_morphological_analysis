@@ -1,6 +1,11 @@
 # Shape & Morphological Analysis Toolkits
 Shape and Morphological Analysis (e.g. Cortical Shape, Surface Area, etc.)
 
+Functionality includes:
+
+- Laplacian-based structural thickness estimation (e.g. cerebral/cerebellar cortical thickness and hippocampal subfield thickness)
+- Groupwise surface-based statistical-mapping (for shape metrics such as thickness, surface area, and structural volume)
+
 It utilizes the "**MASMAT**" (Multi Atlas Segmentation and Morphometric Analysis Toolkit) to preprocess the groupwise  analysis pipeline: https://github.com/dama-lab/multi-atlas-segmentation
 
 Folder structure:

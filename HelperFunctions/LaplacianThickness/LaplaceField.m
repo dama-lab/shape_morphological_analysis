@@ -8,10 +8,11 @@ function [LaplacianField,LaplacianRegion] = LaplaceField(vol,l_middle,l_lower,ve
 %  Three-dimensional mapping of cortical thickness using Laplace's Equation.
 %
 %  Input:
-%     l_upper:    (0) label number for upper boundary (outer csf+backgound)
-%     l_middle:   (2) label number for middle slab (grey matter - cerebellum)
-%     l_lower:    (1) label number for lower boundary (white matter + cerebellum)
+%     l_middle:   (2) label number for middle slab (e.g. grey matter)
+%     l_lower:    (1) label number for lower boundary (e.g. white matter cerebellum)
 %     verbose:     0): no verbose; 1) show progress
+%     [depreciated] l_upper:    (0 no need to specify) label number for upper boundary (outer csf+backgound)
+
 %  Output:
 %     LaplacianField
 %     LaplacianRegion: Region of Laplacian Field (0< LaplacianRegion <1)
