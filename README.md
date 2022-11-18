@@ -1,6 +1,8 @@
 # Shape & Morphological Analysis Toolkits
 Shape and Morphological Analysis (e.g. Cortical Shape, Surface Area, etc.)
 
+It utilizes the "**MASMAT**" (Multi Atlas Segmentation and Morphometric Analysis Toolkit) to preprocess the groupwise  analysis pipeline: https://github.com/dama-lab/multi-atlas-segmentation
+
 # Toolbox
 
 ## Laplacian Thickness

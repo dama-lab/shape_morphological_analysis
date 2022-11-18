@@ -15,7 +15,7 @@
 #       4. rigidly+KNN or Non-rigidly register surface back to groupwise space
 ##
 
-rootDir='/home/dma73/Data/Brain_MRI/UCL/Tc1_Cerebellum'
+rootDir='../Data/'
 groupAvgDir=$rootDir'/00_groupwise_average'
 transformationDir=$groupAvgDir'/transformations/'
 N4Dir=$rootDir/'00_cerebellum_N4_with_mask'
