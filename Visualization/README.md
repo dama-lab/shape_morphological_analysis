@@ -15,6 +15,7 @@ tc1_zscape();
  - pcshowRegistration <<==<< pcShowRegistrationDemo 
    Show registration performance (before v.s. after)
  - groupwise_purkinje_thickness
+
  	show thickness difference on purkinje layer
  - surface_morphometry
  - statColormap: Generate colormap for different statistical plot
@@ -48,6 +49,3 @@ tc1_zscape();
 
  ===== Other Processing HelperFunctions ======
  - extractStruct(vol, seg, labelNo): extract a single structure from the vol with segmentation
-
-
-
