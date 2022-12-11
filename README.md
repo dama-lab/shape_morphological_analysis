@@ -1,4 +1,4 @@
-# Shape & Morphological Analysis Toolkits
+# Shape & Morphological Analysis and Rendering Toolkits (SMART)
 Shape and Morphological Analysis (e.g. Cortical Shape, Surface Area, etc.)
 
 Functionality includes:
