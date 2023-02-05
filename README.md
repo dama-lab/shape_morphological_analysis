@@ -8,9 +8,9 @@ Functionality includes:
 
 It utilizes the "**MASMAT**" (Multi Atlas Segmentation and Morphometric Analysis Toolkit) to preprocess the groupwise  analysis pipeline: https://github.com/dama-lab/multi-atlas-segmentation
 
-Folder structure:
+# Folder structure:
 
-# Processing
+## Processing
 
 > Contain Image Data processing and Morphological Analysis functions
 
