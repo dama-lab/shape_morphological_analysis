@@ -8,6 +8,12 @@ Functionality includes:
 
 It utilizes the "**MASMAT**" (Multi Atlas Segmentation and Morphometric Analysis Toolkit) to preprocess the groupwise  analysis pipeline: https://github.com/dama-lab/multi-atlas-segmentation
 
+# QuickCheck
+
+<img src="https://github.com/dama-lab/mouse-brain-atlas/blob/master/docs/segmentation_qc_all_28_original_aspect_ratio.png" alt="QuickCheck demo" style="zoom:50%;" />
+<img src="https://github.com/dama-lab/mouse-brain-atlas/blob/master/docs/pipeline_results_step1.png" alt="Pipeline demo" style="zoom:50%;" />
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811920307576-gr5_lrg.jpg"  alt="Cortical Morpometry" style="zoom:50%;" />
+
 # Folder structure:
 
 ## Processing
@@ -33,8 +39,6 @@ It utilizes the "**MASMAT**" (Multi Atlas Segmentation and Morphometric Analysis
 ### iso2mesh
 
 > To construct surface mesh from binary segmentation labels
-
-
 
 # Reference:
 
